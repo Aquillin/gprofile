@@ -117,6 +117,8 @@ dist
 
 # gprofile .gitignore
 **/dist
+**/production
 **/node_modules
 **/yarn-error.log
 **/*.spec.json
+**/*.tgz

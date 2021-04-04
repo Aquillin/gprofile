@@ -1,0 +1,13 @@
+# Configs
+jest.config.*
+tsconfig.json
+babel.config.js
+
+# Irrelevant Directories
+**/src
+**/dist
+**/node_modules
+
+# Output Files
+**/yarn-error.log
+**/*.tgz
