@@ -115,6 +115,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# gprofile .gitignore
 **/dist
 **/node_modules
 **/yarn-error.log
+**/*.spec.json
